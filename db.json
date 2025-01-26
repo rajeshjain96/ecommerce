@@ -91,7 +91,7 @@
     {
       "id": "9",
       "name": "Chikoo",
-      "image": "chikoo.jpg",
+      "image": "Chikoo.jpg",
       "unit": "kg",
       "mrp": 60,
       "discount": 5,
@@ -102,7 +102,7 @@
     {
       "id": "10",
       "name": "Kiwi",
-      "image": "kiwi.jpg",
+      "image": "Kiwi.jpg",
       "unit": "piece",
       "mrp": 20,
       "discount": 0,
